@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="410" viewBox="0 0 1400 410" role="img" aria-labelledby="title desc">
+<title id="title">Terraform Plan Impact Audit</title><desc id="desc">A premium dark navy editorial card with a glowing change graph, risk priority indicators and simplified plan-to-review pipeline.</desc>
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#071523"/><stop offset="1" stop-color="#10243A"/></linearGradient><linearGradient id="accent" x1="0" x2="1"><stop stop-color="#00D9FF"/><stop offset="1" stop-color="#00FFA3"/></linearGradient></defs>
+<rect width="1400" height="410" rx="32" fill="url(#bg)"/>
+<g opacity=".12" stroke="#00D9FF"><path d="M0 92h1400M0 192h1400M0 292h1400M180 0v410M380 0v410M580 0v410M780 0v410M980 0v410M1180 0v410"/></g>
+<text x="76" y="83" font-family="Arial,Helvetica,sans-serif" fill="#00FFA3" font-size="23" font-weight="600" letter-spacing="5">AREAZERO / INFRASTRUCTURE SAFETY</text>
+<text x="76" y="163" font-family="Arial,Helvetica,sans-serif" fill="white" font-size="58" font-weight="700">Know the change.</text>
+<text x="76" y="230" font-family="Arial,Helvetica,sans-serif" fill="white" font-size="58" font-weight="700">Before the apply.</text>
+<text x="76" y="288" font-family="Arial,Helvetica,sans-serif" fill="#A8C1D3" font-size="23">Offline plan review · Private-by-design output · Human approval</text>
+<path d="M830 205L970 205L1080 118L1218 118M970 205L1080 296L1218 296" fill="none" stroke="url(#accent)" stroke-width="5" stroke-linecap="round"/>
+<rect x="815" y="169" width="92" height="72" rx="16" fill="#123F51" stroke="#00D9FF"/><text x="835" y="214" font-family="monospace" font-size="20" fill="#00D9FF">PLAN</text>
+<rect x="1060" y="93" width="130" height="51" rx="14" fill="#1E4050" stroke="#00FFA3"/><text x="1081" y="124" font-family="monospace" font-size="18" fill="#00FFA3">REVIEW</text>
+<rect x="1060" y="272" width="130" height="51" rx="14" fill="#45272B" stroke="#F49F8B"/><text x="1081" y="303" font-family="monospace" font-size="18" fill="#F49F8B">CHANGE</text>
+</svg>

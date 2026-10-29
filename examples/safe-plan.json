@@ -1,0 +1,1 @@
+{"format_version":"1.2","resource_changes":[{"address":"aws_instance.web[\"blue\"]","change":{"actions":["update"],"before":{"password":"DUMMY-DO-NOT-PRINT"},"after":{"password":"DUMMY-DO-NOT-PRINT"}}}],"resource_drift":[],"checks":[],"output_changes":{}}
